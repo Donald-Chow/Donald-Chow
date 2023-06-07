@@ -2,7 +2,7 @@
 
 I am Donald Chow.
 
-My Final porjet at Le Wagon: <a href="htt[s://www.smartvacay.app">Smart Vacay</a>
+My Final porjet at Le Wagon: [SmartVacay](https://www.smartvacay.app "SmartVacay")
 
 <!--
 **Donald-Chow/Donald-Chow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
