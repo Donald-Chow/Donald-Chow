@@ -46,13 +46,14 @@
     </a>
   </div>
   <div style="flex:3">
-  <p>
-  This is my final project at Le Wagon. Our team of 4 created SmartVacay within 2 weeks.
-  <br><br>
-  SmartVacay creates an itinerary for your vacation with one click of a button. The web app will analysis all the point of interests that the user saved and create an itinerary based on location information to minimizes travel time.</p>
-  <a href="https://github.com/donald=chow/smart-vacay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=donald-chow&repo=smartvacay&theme=tokyonight" />
-  </a>
+    <p>
+      This is my final project at Le Wagon. Our team of 4 created SmartVacay within 2 weeks.
+      <br><br>
+      SmartVacay creates an itinerary for your vacation with one click of a button. The web app will analysis all the point of interests that the user saved and create an itinerary based on location information to minimizes travel time.
+    </p>
+    <a href="https://github.com/donald=chow/smart-vacay">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=donald-chow&repo=smartvacay&theme=tokyonight" />
+    </a>
   </div>
 </div>
 
