@@ -1,5 +1,6 @@
-<img src="Assets/hello.png" alt="Hello, I am Donald" style="margin: auto;">
-
+<p align="center">
+  <img src="Assets/hello.png" alt="Hello, I am Donald" style="width:300px;">
+</p>
 <p align="center">
  <a href="https://www.donald-chow.com" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge" alt="Donald's Portfolio" />
@@ -31,28 +32,28 @@
 </p>
 
 <p align='center'>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=donald-chow&show_icons=true&theme=tokyonight" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donald-chow&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=donald-chow&show_icons=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donald-chow&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </p>
 
 ## My Final project at Le Wagon:
 
 <div style="display: flex; justify-content: space-around; align: center">
-  <p style="flex:2">
+  <div style="flex:1">
+    <a href="https://www.smartvacay.app">
+      <img  src="https://donald-chow.com/images/projects/logo_orange_bg.png" style="height:120px;">
+      <p class="text-align: center">Click here to go to SmartVacay </p>
+    </a>
+  </div>
+  <p style="flex:3">
   This is my final project at Le Wagon. Our team of 4 created SmartVacay within 2 weeks.
   <br><br>
   SmartVacay creates an itinerary for your vacation with one click of a button. The web app will analysis all the point of interests that the user saved and create an itinerary based on location information to minimizes travel time.
-  </p>
-  <div style="flex:1">
-  <a href="https://www.smartvacay.app">
-    <img  src="https://donald-chow.com/images/projects/logo_orange_bg.png" style="height:120px;">
-  <p class="text-align: center">Click here to go to SmartVacay </p>
-  </a>
-  </div>
-  <a style="flex:2" href="https://github.com/donald=chow/smart-vacay">
+  <a href="https://github.com/donald=chow/smart-vacay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=donald-chow&repo=smartvacay&theme=tokyonight" />
   </a>
-</span>
+  </p>
+</div>
 
 <!--
 **Donald-Chow/Donald-Chow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
