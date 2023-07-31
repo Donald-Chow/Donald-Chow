@@ -28,31 +28,33 @@
   Presently, I work as a teaching assistant for Le Wagon Tokyo, assisting students in their journey to become web developers.
 <p>
 <p align="center">
-  I am originally from Hong Kong and currently based in Japan, where I am passionately pursuing a career as a developer.
+  I am originally from Hong Kong and currently based in Japan, where I am passionately pursuing a career as a developer.  I constantly seek new challenges in the ever-changing digital world, striving to create innovative digital products that leave a lasting impact.
 </p>
 
 <p align='center'>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=donald-chow&show_icons=true&theme=tokyonight" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donald-chow&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=donald-chow&show_icons=true&theme=tokyonight" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=donald-chow&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </p>
 
 ## My Final project at Le Wagon:
 
-<div style="display: flex; justify-content: space-around; align: center">
+<div style="display: flex; justify-content: space-around;">
   <div style="flex:1">
     <a href="https://www.smartvacay.app">
       <img  src="https://donald-chow.com/images/projects/logo_orange_bg.png" style="height:120px;">
       <p class="text-align: center">Click here to go to SmartVacay </p>
     </a>
   </div>
-  <p style="flex:3">
-  This is my final project at Le Wagon. Our team of 4 created SmartVacay within 2 weeks.
-  <br><br>
-  SmartVacay creates an itinerary for your vacation with one click of a button. The web app will analysis all the point of interests that the user saved and create an itinerary based on location information to minimizes travel time.
-  <a href="https://github.com/donald=chow/smart-vacay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=donald-chow&repo=smartvacay&theme=tokyonight" />
-  </a>
-  </p>
+  <div style="flex:3">
+    <p>
+      This is my final project at Le Wagon. Our team of 4 created SmartVacay within 2 weeks.
+      <br><br>
+      SmartVacay creates an itinerary for your vacation with one click of a button. The web app will analysis all the point of interests that the user saved and create an itinerary based on location information to minimizes travel time.
+    </p>
+    <a href="https://github.com/donald=chow/smart-vacay">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=donald-chow&repo=smartvacay&theme=tokyonight" />
+    </a>
+  </div>
 </div>
 
 <!--
