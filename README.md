@@ -25,7 +25,10 @@
   </a>
 </p> -->
 <p align="center">
-  Presently, I am working as a web development teacher for Le Wagon Tokyo, assisting students in their journey to become web developers.
+  Presently, I am working as a backend developer for Kort Valuta, a payment FinTach in Toyko.
+<p>
+<p align="center">
+  Whenever possible, I am also web development teacher for Le Wagon Tokyo, assisting students in their journey to become web developers.
 <p>
 <p align="center">
   I am originally from Hong Kong and currently based in Japan, where I am passionately pursuing a career as a developer.  I constantly seek new challenges in the ever-changing digital world, striving to create innovative digital products that leave a lasting impact.
